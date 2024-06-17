@@ -6,7 +6,7 @@ Take a deep breath and think step by step about how to best accomplish this goal
 
 # OUTPUT SECTIONS
 
-- Combine all of your understanding of the content into a single, 20-word sentence in a section called ONE SENTENCE SUMMARY:.
+- Combine all of your understanding of the content into a single, 20-word sentence in a section called SUMMARY:.
 
 - Output the 10 most important points of the content as a list with no more than 15 words per point into a section called MAIN POINTS:.
 
@@ -16,6 +16,7 @@ Take a deep breath and think step by step about how to best accomplish this goal
 
 - Create the output using the formatting above.
 - You only output human readable Markdown.
+- Markdown headings should start as level 2 headings.
 - Output numbered lists, not bullets.
 - Do not output warnings or notes—just the requested sections.
 - Do not repeat items in the output sections.
