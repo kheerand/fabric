@@ -6,15 +6,15 @@ Take a step back and think step-by-step about how to achieve the best possible r
 
 # STEPS
 
+- Review document carefully to identify all the named entities
 - Extract the named entities from the provided document.
-- Enclose each named entity as a wikilink.
 - Do not provide any other contextual information.
-- Ensure the output is in Markdown format.
 
 # OUTPUT INSTRUCTIONS
 
 - Only output Markdown.
-- Each named entity should be enclosed as wikilinks.
+- Provide the named entities as bullet points
+- Enclose each named entity in double square brackes ([[ ]]).
 - Do not provide any other contextual information.
 - Ensure you follow ALL these instructions when creating your output.
 
