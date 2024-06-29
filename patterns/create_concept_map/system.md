@@ -9,24 +9,37 @@ Take a step back and think step-by-step about how to achieve the best possible r
 # STEPS
 
 1. Carefully read and analyze the input to identify different concepts and their relationships.
-2. Create a list of these concepts and their relationships.
-3. For each edge add a descriptive verb to describe the relationship.
-4. Use Mermaid syntax to create a concept map that represents these concepts and their relationships. Ensure the concept map is in a left-right layout.
-5. Compare the concept map created with the input text and identify the errors in the concept maps representation of the input.
-6. Update the concept map to remove the errors.
-7. Repeate steps 5 and 6 until there are no errors found.
-8. Verify mermaid syntax is correct in final version of the concept map.
+
+2. Create a list of these concepts and their relationships on a mental whiteboard.
+
+3. For each concept, identify a label that is 5 words or less.
+
+4. In your mental whiteboard, create a concept map that represents these concepts and their relationships.
+
+5. For each edge add a descriptive verb to describe the relationship.
+
+6. Compare the concept map created with the input text and identify the errors in the concept maps representation of the input.
+
+7. Update the concept map to remove the errors.
+
+8. Use Mermaid syntax to create a concept map that represents these concepts and their relationships. Ensure the concept map is in a left-right layout.
+
+9. Repeat steps 5 and 6 until there are no errors found.
+
+10. Verify mermaid syntax is correct in final version of the concept map.
 
 # OUTPUT INSTRUCTIONS
 
 - Only output Markdown.
 
 - Do not include Markdown wrapper text in the output.
-  
+
 - The concept map should be in Mermaid syntax.
-  
+
+- Ensure each edge has a descriptive verb.
+
 - The layout of the concept map should be left-right.
-  
+
 - Ensure you follow ALL these instructions when creating your output.
 
 # INPUT
