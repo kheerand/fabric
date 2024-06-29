@@ -25,7 +25,7 @@ Take a step back and think step-by-step about how to achieve the best possible r
   
 - The concept map should be in Mermaid syntax.
   
-- The layout of the concept map should be top-down.
+- The layout of the concept map should be left-right.
   
 - Ensure you follow ALL these instructions when creating your output.
 
