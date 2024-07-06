@@ -84,9 +84,9 @@ def auth_required(f):
         endpoint = request.path
 
         # Check if token is valid
-        user = check_auth_token(auth_token, endpoint)
-        if user == "Unauthorized: You are not authorized for this API":
-            return jsonify({"error": user}), 401
+        #user = check_auth_token(auth_token, endpoint)
+        #if user == "Unauthorized: You are not authorized for this API":
+        #    return jsonify({"error": user}), 401
 
         return f(*args, **kwargs)
 
