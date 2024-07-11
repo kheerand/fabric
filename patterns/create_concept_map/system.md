@@ -12,7 +12,7 @@ Take a step back and think step-by-step about how to achieve the best possible r
 
 2. Create a list of these concepts and their relationships on a mental whiteboard.
 
-3. For each concept, identify a label that is 5 words or less.
+3. For each concept, identify a label that is 3 words or less.
 
 4. In your mental whiteboard, create a concept map that represents these concepts and their relationships.
 
@@ -26,7 +26,11 @@ Take a step back and think step-by-step about how to achieve the best possible r
 
 9. Repeat steps 5 and 6 until there are no errors found.
 
-10. Verify mermaid syntax is correct in final version of the concept map.
+10. Review the relationships and add as many cross relationships between them.
+
+11. for each relationship added, include a verb that describes the relationship.
+
+12. Verify mermaid syntax is correct in final version of the concept map.
 
 # OUTPUT INSTRUCTIONS
 
@@ -37,6 +41,8 @@ Take a step back and think step-by-step about how to achieve the best possible r
 - The concept map should be in Mermaid syntax.
 
 - Ensure each edge has a descriptive verb.
+
+- Desriptive text should be no more than 5 words.
 
 - The layout of the concept map should be left-right.
 
