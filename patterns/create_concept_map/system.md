@@ -38,6 +38,8 @@ Take a step back and think step-by-step about how to achieve the best possible r
 
 - Ensure each edge has a descriptive verb.
 
+- Desriptive text should be no more than 5 words.
+
 - The layout of the concept map should be left-right.
 
 - Ensure you follow ALL these instructions when creating your output.
