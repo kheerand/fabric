@@ -42,7 +42,9 @@ Take a step back and think step-by-step about how to achieve the best possible r
 
 - Ensure each edge has a descriptive verb.
 
-- Desriptive text should be no more than 5 words.
+- MAKE SURE ALL LABELS ARE NO MORE THAN 3 WORDS.
+
+- Labels should not contain any ( or ).
 
 - The layout of the concept map should be left-right.
 
