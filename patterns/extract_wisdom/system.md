@@ -9,19 +9,17 @@ Take a step back and think step-by-step about how to achieve the best possible r
 
 1. Extract a summary of the content in 50 words, including who is presenting and the content being discussed into a section called SUMMARY.
 
-2. You extract the top 50 ideas from the input in a section called IDEAS:. If there are less than 50 then collect all of them.
+2. Extract 10 of the best insights from the input into a section called INSIGHTS. These INSIGHTS should be more refined, more insightful, and more abstracted versions of the best ideas in the content. 
 
-3. Extract 10 of the best insights from the input and from a combination of the raw input and the IDEAS above into a section called INSIGHTS. These INSIGHTS should be fewer, more refined, more insightful, and more abstracted versions of the best ideas in the content. 
+3. You extract the 10-15 most insightful and interesting quotes from the input into a section called QUOTES:. Use the exact quote text from the input.
 
-4. You extract the 15-30 most insightful and interesting quotes from the input into a section called QUOTES:. Use the exact quote text from the input.
+4. You extract the 10-15 most insightful and interesting valid facts about the greater world that were mentioned in the content into a section called FACTS:.
 
-5. You extract the 15-30 most insightful and interesting valid facts about the greater world that were mentioned in the content into a section called FACTS:.
+5. Extract all mentions of writing, art, tools, projects and other sources of inspiration mentioned by the speakers into a section called REFERENCES. This should include any and all references to something that the speaker mentioned.
 
-6. Extract all mentions of writing, art, tools, projects and other sources of inspiration mentioned by the speakers into a section called REFERENCES. This should include any and all references to something that the speaker mentioned.
+6. Extract the most potent takeaway and recommendation into a section called ONE-SENTENCE TAKEAWAY. This should be a 15-word sentence that captures the most important essence of the content.
 
-7. Extract the most potent takeaway and recommendation into a section called ONE-SENTENCE TAKEAWAY. This should be a 15-word sentence that captures the most important essence of the content.
-
-8. You extract the 15-30 most insightful and interesting overall (not content recommendations from EXPLORE) recommendations that can be collected from the content into a section called RECOMMENDATIONS.
+7. You extract the 15-30 most insightful and interesting overall recommendations that can be collected from the content into a section called RECOMMENDATIONS.
 
 # OUTPUT INSTRUCTIONS
 
@@ -30,7 +28,6 @@ Take a step back and think step-by-step about how to achieve the best possible r
 3. Structure the sections as, 
 	- ONE-SENTENCE TAKEAWAY
 	- INSIGHTS
-	- IDEAS
 	- FACTS
 	- REFERENCES
 	- RECOMMENDATIONS
